@@ -102,4 +102,4 @@ See [LICENSE](https://www.gnu.org/licenses/gpl-3.0.html) for details.
 
 ## 🙌 Citation
 
-If you use this code in your research, please cite it appropriately. A citation format (BibTeX or otherwise) can be added here once the work is published.
+If you use this code in your research, please cite it appropriately. A citation format (BibTeX or otherwise) will be added here once the work is published.
