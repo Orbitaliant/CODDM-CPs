@@ -86,13 +86,13 @@ python calculate_charge_at_pH7.py
 
 ---
 
+## 🙌 Citation
+
+If you use this code in your research, please cite: Islam K. Matar and Chérif F. Matta, "Origin-Dependence of Dipole Moments of Charged Proteins: Theoretical Foundations and Implications, Revisited" Journal of Computational Chemistry 46 (2025): e70207. https://doi.org/10.1002/jcc.70207
+
+---
+
 ## 📄 License
 
 This repository is licensed under the **GNU General Public License v3.0**.  
 See [LICENSE](https://www.gnu.org/licenses/gpl-3.0.html) for details.
-
----
-
-## 🙌 Citation
-
-If you use this code in your research, please cite: Islam K. Matar and Chérif F. Matta, "Origin-Dependence of Dipole Moments of Charged Proteins: Theoretical Foundations and Implications, Revisited" Journal of Computational Chemistry 46 (2025): e70207. https://doi.org/10.1002/jcc.70207
