@@ -1,4 +1,4 @@
-# CODDM-CPs: Coordinate-Origin Dependence of Dipole Moments in Charged Proteins
+# CODDM-CPs: Coordinate-Origin Dependence of Dipole Moments of Charged Proteins
 
 This repository contains Python and PyMOL-based tools for investigating how the choice of coordinate origin affects the calculated dipole moment of charged proteins.
 
